@@ -1,5 +1,14 @@
 # vue-crash-2021
 
+
+## test run
+
+```
+npm run dev
+rpm run backend
+```
+
+
 ## Project setup
 ```
 npm install
