@@ -1,0 +1,3 @@
+[submodule "echo-wallet"]
+	path = echo-wallet
+	url = https://github.com/or-abdillh/echo-wallet.git
