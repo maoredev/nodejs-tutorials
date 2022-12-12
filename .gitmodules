@@ -1,3 +1,33 @@
 [submodule "echo-wallet"]
 	path = echo-wallet
 	url = https://github.com/or-abdillh/echo-wallet.git
+[submodule "omdb-app"]
+	path = omdb-app
+	url = https://github.com/or-abdillh/omdb-app.git
+[submodule "travel-app-3"]
+	path = travel-app-3
+	url = https://github.com/or-abdillh/travel-app-3.git
+[submodule "marketplace-1"]
+	path = marketplace-1
+	url = https://github.com/or-abdillh/marketplace-1.git
+[submodule "travel-app-2"]
+	path = travel-app-2
+	url = https://github.com/or-abdillh/travel-app-2.git
+[submodule "house-finder-app"]
+	path = house-finder-app
+	url = https://github.com/or-abdillh/house-finder-app.git
+[submodule "chat-app"]
+	path = chat-app
+	url = https://github.com/or-abdillh/chat-app.git
+[submodule "Todo"]
+	path = Todo
+	url = https://github.com/or-abdillh/Todo.git
+[submodule "vegetable-app"]
+	path = vegetable-app
+	url = https://github.com/or-abdillh/vegetable-app.git
+[submodule "stock-app"]
+	path = stock-app
+	url = https://github.com/or-abdillh/stock-app.git
+[submodule "doctalk"]
+	path = doctalk
+	url = https://github.com/or-abdillh/doctalk.git
