@@ -31,3 +31,6 @@
 [submodule "doctalk"]
 	path = doctalk
 	url = https://github.com/or-abdillh/doctalk.git
+[submodule "stock-api"]
+	path = stock-api
+	url = https://github.com/or-abdillh/stock-api.git
