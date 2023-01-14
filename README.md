@@ -90,13 +90,33 @@ module.exports = conn;
 
 pagination
 --------------------------------------------------------------------------------
+
+npm checkout pagination
+npm run serve
+
+
 git submodule add https://github.com/jeffreybiles/advanced-components-slots.git
 
+https://stackoverflow.com/questions/69665222/node-js-17-0-1-gatsby-error-digital-envelope-routinesunsupported-err-os
+
+
+"scripts": {
+    "serve": "export NODE_OPTIONS=--openssl-legacy-provider && vue-cli-service serve",
+    "build": "export NODE_OPTIONS=--openssl-legacy-provider && vue-cli-service build",
+    "lint": "export NODE_OPTIONS=--openssl-legacy-provider && vue-cli-service lint"
+},
 
 
 
+Dans 'DataLoader'
 
-
+  /*
+  let results = await this.axios.get(this.endpoint, {
+    headers: {
+      'Authorization': `token ${this.authToken}`
+    }
+  });
+  */
 
 
 
