@@ -84,3 +84,19 @@ module.exports = conn;
 
 
 ```
+
+
+
+
+pagination
+--------------------------------------------------------------------------------
+git submodule add https://github.com/jeffreybiles/advanced-components-slots.git
+
+
+
+
+
+
+
+
+

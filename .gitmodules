@@ -34,3 +34,6 @@
 [submodule "stock-api"]
 	path = stock-api
 	url = https://github.com/or-abdillh/stock-api.git
+[submodule "advanced-components-slots"]
+	path = advanced-components-slots
+	url = https://github.com/jeffreybiles/advanced-components-slots.git
